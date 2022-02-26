@@ -21,9 +21,9 @@
 * `pkg install python`
 * `pkg install python3`
 * `pkg install git`
-* `git clone https://github.com/hacker6291/SMS_Bomber.git `
+* `git clone https://github.com/hacker6291/Userecon.git `
 * `ls`
-* `cd SMS_Bomber `
+* `cd Userecon `
 
 
 ## INSTALLATION [Kali Linux] :
@@ -31,16 +31,16 @@
 * `sudo apt install python`
 * `sudo apt install python3`
 * `sudo apt install git`
-* `git clone https://github.com/hacker6291/SMS_Bomber.git`
+* `git clone https://github.com/hacker6291/Userecon.git`
 * `ls`
-* `cd SMS_Bomber `
+* `cd Userecon `
 
 
 ## Uses :
 
-* `cd SMS_Bomber`
+* `cd Userecon`
 * `ls`
-* `python3 bomber.py`
+* `bash start.sh`
 
 
 ## Screenshot:
